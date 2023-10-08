@@ -1,2 +1,2 @@
 #!/bash/bin
-eco "School"
+echo "The school is open!"
